@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">单机跑刀机器人 Demo</string>
+    <string name="accessibility_description">用于用户自有单机测试游戏的触摸自动化 Demo</string>
+</resources>
